@@ -1,5 +1,7 @@
 # LD23 Simplified Reproduction
 
+纯 AI 代码，无质量保证。
+
 This workspace contains a compact, runnable prototype inspired by `LD23.pdf`:
 
 - 3D two-phase fluid with a coarse `D3Q27` flow grid and a fine `D3Q7` phase grid
