@@ -1,0 +1,7 @@
+taichi
+numpy
+PyOpenGL
+glfw
+trimesh
+scikit-image
+
